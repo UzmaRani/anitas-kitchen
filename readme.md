@@ -10,6 +10,6 @@ This is a detailed description of your application
 ## Support and contact details
 *uzmarani795@gmail.com
 ### License
-MIT[license]( 
+MIT[license]( anitas-kitchen/LICENSE)
 Copyright (c) 2018 Uzma_Rani
   
