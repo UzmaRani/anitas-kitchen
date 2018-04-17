@@ -9,7 +9,7 @@ This is a detailed description of your application
 *html, css, js
 ## Support and contact details
 uzmarani795@gmail.com
-##### [GoTo](anitas-kitchen/index.html)
+##### [GoTo](https://github.com/UzmaRani/anitas-kitchen/blob/master/index.html)
 ### License
 MIT[license]( anitas-kitchen/LICENSE)
 Copyright (c) 2018 Uzma_Rani
